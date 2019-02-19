@@ -7,7 +7,7 @@ Same program can be run on multinode hadoop cluster which is usually the case in
 We could have also used spark streaming if we need the top users data continously. 
 
 ## Why Spark ?
-Spark is a fast and general engine for large scaling data processing. 
+Spark is a fast and general purpose engine for large scale data processing. 
 Basically it can take masssive data sets and distribute the processing across clusters.
 
 ## How to run ?
